@@ -1,29 +1,35 @@
-# Hi there, I'm Saad Khan! 👋
+<h1 align="center"><strong>Saad Khan</strong></h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Software+Engineering+Specialist;MEAN+%26+MERN+Stack+Expert;Full+Stack+Developer;Mobile+App+Developer;Cloud+%26+DevOps+Enthusiast;AI%2FML+Integration+Specialist;Always+Building+%26+Learning!" alt="Typing SVG" />
-</div>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7F5AF0&center=true&vCenter=true&width=750&lines=Computer+Science+Student+%7C+Software+Engineer;Game+Developer+%7C+Mobile+App+Developer;Full+Stack+Web+%26+App+Development;Computer+Networks+%26+Socket+Programming;Cloud+%7C+DevOps+%7C+AI+%26+ML+%7C+Data+Science;Always+Learning+%7C+Building+%7C+Exploring!" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  
-[![Profile Views](https://komarev.com/ghpvc/?username=saadoxyz&color=0e75b6&style=flat)](https://github.com/saadoxyz)
-[![GitHub followers](https://img.shields.io/github/followers/saadoxyz?label=Follow&style=social)](https://github.com/saadoxyz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-khan-0127272b3/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saado652004@gmail.com.com)
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Welcome GIF">
+</div>
+
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=saadoxyz&color=7F5AF0&style=flat)](https://github.com/saadoxyz)
+[![GitHub Followers](https://img.shields.io/github/followers/saadoxyz?label=Follow&style=social)](https://github.com/saadoxyz)
+[![GitHub Stars](https://img.shields.io/github/stars/saadoxyz?style=social)](https://github.com/saadoxyz)
+
+<br><br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7F5AF0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-khan-0127272b3/)
+[![Email](https://img.shields.io/badge/Gmail-Contact-7F5AF0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saado652004@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-7F5AF0?style=for-the-badge&logo=react&logoColor=white)](https://your-portfolio-link.com)
 
 </div>
+
 
 ## 🚀 About Me
 
 I'm a passionate **Computer Science Student** specializing in **MEAN & MERN stack development** with extensive experience in building scalable, high-performance web applications and mobile solutions. My expertise spans across **full-stack JavaScript development**, **modern Python frameworks**, **cloud architecture**, and **emerging technologies**.
 
-With a strong foundation in **Computer Science** and **Software Engineering principles**, I focus on creating robust, maintainable solutions that solve real-world problems. I'm particularly passionate about **API design**, **microservices architecture**, **performance optimization**, and **DevOps practices**.
+With a strong foundation in **Computer Science** and **Software Engineering principles**, I focus on creating robust, maintainable solutions that solve real-world problems. I'm particularly passionate about **AI/ML Engineering**, **DevOps/Cloud practices**, **Game Development**, and **performance optimization**.
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-Thanks for the clarification! Here's a rewritten version of that section using your **actual skills**, written in the same structured, badge-style format:
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/41869260/file/original-a181a8c6c451aa6b5fdea7808802005b.gif">
 
 ---
 
