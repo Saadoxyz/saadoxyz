@@ -27,15 +27,14 @@ I'm a passionate **Computer Science Student** specializing in **MEAN & MERN stac
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/41869260/file/original-a181a8c6c451aa6b5fdea7808802005b.gif">
 ---
-* 🔭 Building **full-stack web and mobile apps** using **Flutter**, **Node.js**, and **ASP.NET**
-* 🌱 Learning **advanced backend frameworks**, **database optimization**, and **React/Angular ecosystems**
-* 👯 Open to collaborate on **academic, utility, or productivity-based projects**
-* 💬 Comfortable with **C++**, **Java**, **Python**, and **JavaScript** across **web**, **mobile**, and **desktop platforms**
-* ⚡ Focused on writing **clean code**, using **OOP principles**, and applying **software engineering best practices**
-* 🛠 Experienced with **Firebase**, **SQL Server**, **MongoDB**, and **API integrations**
-* 🎯 Passionate about **UI/UX design**, **data structures**, and **real-world problem solving**
+- 🔭 Building **full-stack web and mobile apps** using **Flutter**, **Node.js**, and **ASP.NET**
+- 🌱 Learning **advanced backend frameworks**, **database optimization**, and **React/Angular ecosystems**
+- 👯 Open to collaborate on **academic, utility, or productivity-based projects**
+- 💬 Comfortable with **C++**, **Java**, **Python**, and **JavaScript** across **web**, **mobile**, and **desktop platforms**
+- ⚡ Focused on writing **clean code**, using **OOP principles**, and applying **software engineering best practices**
+- 🛠 Experienced with **Firebase**, **SQL Server**, **MongoDB**, and **API integrations**
+- 🎯 Passionate about **UI/UX design**, **data structures**, and **real-world problem solving**
 ---
-
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
