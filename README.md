@@ -24,6 +24,7 @@
 ## 🚀 About Me
 
 I'm a passionate **Computer Science Student** specializing in **MEAN & MERN stack development** with extensive experience in building scalable, high-performance web applications and mobile solutions. My expertise spans across **full-stack JavaScript development**, **modern Python frameworks**, **cloud architecture**, and **emerging technologies**. With a strong foundation in **Computer Science** and **Software Engineering principles**, I focus on creating robust, maintainable solutions that solve real-world problems. I'm particularly passionate about **AI/ML Engineering**, **DevOps/Cloud practices**, **Game Development**, and **performance optimization**.
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/41869260/file/original-a181a8c6c451aa6b5fdea7808802005b.gif">
 ---
 * 🔭 Building **full-stack web and mobile apps** using **Flutter**, **Node.js**, and **ASP.NET**
@@ -33,6 +34,7 @@ I'm a passionate **Computer Science Student** specializing in **MEAN & MERN stac
 * ⚡ Focused on writing **clean code**, using **OOP principles**, and applying **software engineering best practices**
 * 🛠 Experienced with **Firebase**, **SQL Server**, **MongoDB**, and **API integrations**
 * 🎯 Passionate about **UI/UX design**, **data structures**, and **real-world problem solving**
+
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
@@ -43,6 +45,7 @@ I'm a passionate **Computer Science Student** specializing in **MEAN & MERN stac
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C Sharp](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+
 ---
 
 
