@@ -13,9 +13,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=saadoxyz&color=7F5AF0&style=flat)](https://github.com/saadoxyz)
 [![GitHub Followers](https://img.shields.io/github/followers/saadoxyz?label=Follow&style=social)](https://github.com/saadoxyz)
 [![GitHub Stars](https://img.shields.io/github/stars/saadoxyz?style=social)](https://github.com/saadoxyz)
-
 <br><br>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7F5AF0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-khan-0127272b3/)
 [![Email](https://img.shields.io/badge/Gmail-Contact-7F5AF0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saado652004@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-7F5AF0?style=for-the-badge&logo=react&logoColor=white)](https://your-portfolio-link.com)
