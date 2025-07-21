@@ -11,6 +11,8 @@
   
 [![Profile Views](https://komarev.com/ghpvc/?username=saadoxyz&color=0e75b6&style=flat)](https://github.com/saadoxyz)
 [![GitHub followers](https://img.shields.io/github/followers/saadoxyz?label=Follow&style=social)](https://github.com/saadoxyz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-khan-0127272b3/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saado652004@gmail.com.com)
 
 </div>
 
@@ -137,15 +139,6 @@ Thanks for the clarification! Here's a rewritten version of that section using y
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-## 📫 Let's Connect!
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-khan-0127272b3/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saado652004@gmail.com.com)
-
 </div>
 
 <div align="center">
