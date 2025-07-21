@@ -34,6 +34,8 @@ I'm a passionate **Computer Science Student** specializing in **MEAN & MERN stac
 * ⚡ Focused on writing **clean code**, using **OOP principles**, and applying **software engineering best practices**
 * 🛠 Experienced with **Firebase**, **SQL Server**, **MongoDB**, and **API integrations**
 * 🎯 Passionate about **UI/UX design**, **data structures**, and **real-world problem solving**
+---
+
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
